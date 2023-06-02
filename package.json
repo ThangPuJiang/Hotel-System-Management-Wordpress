@@ -1,0 +1,15 @@
+{
+  "name": "create-fake",
+  "version": "1.0.0",
+  "main": "fake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "simple-git": "^3.25.0"
+  }
+}
